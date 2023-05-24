@@ -5,6 +5,7 @@ import java.awt.event.*;
 
 public class Ejemplo2 extends JFrame implements ActionListener {
 //comentario
+    //comentario2
     static int jugada = 1;
     static int A = 0, B = 0, C = 0, D = 0, E = 0, F = 0, G = 0, H = 0, a = 0, b = 0, c = 0, d = 0, i = 0, f = 0, g = 0, h = 0;
     private JButton boton1, boton2, boton3, boton4, boton5, boton6, boton7, boton8, boton9, boton10;

@@ -11,6 +11,7 @@ public class Ejemplo2 extends JFrame implements ActionListener {
     private JButton boton1, boton2, boton3, boton4, boton5, boton6, boton7, boton8, boton9, boton10;
 
     public Ejemplo2() {
+        // un comentario mas
 
         //Layout absoluto
         setLayout(null);
